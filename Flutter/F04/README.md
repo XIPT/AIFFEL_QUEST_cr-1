@@ -1,7 +1,39 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
+- 코더 : 양건우
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
+## 정보구조도
+
+![스크린샷 2025-02-03 오후 6 08 35](https://github.com/user-attachments/assets/d4b25f0f-d07f-4837-b94d-570c3864edcf)
+
+## 와이어프레임
+
+![스크린샷 2025-02-03 오후 6 09 21](https://github.com/user-attachments/assets/704712f0-562f-4b05-a0ba-c4995a7c9ee3)
+
+## 프로토타이핑
+
+![프로토타이핑](https://github.com/user-attachments/assets/c44b0057-b303-4ca0-8344-8d38ca98eb3f)
+
+## 프로토타이핑 시연
+
+![프로토타이핑 시연](https://github.com/user-attachments/assets/c8c20449-4ab5-4b78-98ee-6a5b324d38e1)
+
+## 플러터 : 다트파일 첨부 (Project.Run.dart)
+
+## 플러터 구동
+
+
+![플러터 구동](https://github.com/user-attachments/assets/8fabd810-435a-41cf-86f7-f99e13003ad2)
+
+
+## 회고
+
+상상만했던 앱을 직접 구상하고 구현해내는 경험은 좋았다.
+머리로만 상상하던 것을 와이어프레임을 짜고 프로토 타이핑을 하므로서 제법 콘티다운 콘티를 만들 수 있었다.
+그러나, 플러터에서 직접 코드를 짤때 좌절할 수밖에 없었다.
+챗GPT의 도움을 받기 위해 요구사항을 얘기했을떄 누락된 부분이 상당부분 있었고 보충을 요구할때마다 기존 코드를 삭제하는 상황이 자주 발생했다.
+그래도 배운 내용을 바탕으로 짜준 코드를 하나하나 점검하고 수정해나갈 수 있었다.
+아직 생각한 모든 부분을 구현해내지는 못했지만 나름 생각했던 화면을 코드로 짜고 구동을 시켜볼 수 있어서 좋았다.
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
